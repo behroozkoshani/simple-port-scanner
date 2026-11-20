@@ -1,0 +1,12 @@
+/build/
+/.venv/
+/__pycache__/
+**/__pycache__/
+*.pyc
+*.exe
+*.obj
+*.o
+.DS_Store
+*.log
+/results*.json
+/results*.csv
