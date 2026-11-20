@@ -10,7 +10,7 @@ I put this project together to demonstrate what happens during a TCP connect sca
 
 A successful connection means that something accepted the TCP handshake on that address and port **at the time of the test**. It does **not** prove which application is running, whether the service is vulnerable, or whether a firewall is correctly configured.
 
-This project was inspired by the *simple-port-scanner* learning project in [CarterPerez-dev/Cybersecurity-Projects](https://github.com/CarterPerez-dev/Cybersecurity-Projects/tree/main/PROJECTS/beginner/simple-port-scanner). The implementation, test harness, and execution captures in this repository were created separately.
+This project was inspired by the *simple-port-scanner* learning project in [CarterPerez-dev/Cybersecurity-Projects](https://github.com/CarterPerez-dev/Cybersecurity-Projects/tree/main/PROJECTS/beginner/simple-port-scanner). 
 
 ## Objectives and scope
 
